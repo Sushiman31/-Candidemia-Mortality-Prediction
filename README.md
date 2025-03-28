@@ -1,4 +1,4 @@
-## 🧠 Candidemia Mortality Prediction - AI Term Project
+## 🧠 Candidemia Mortality Prediction
 
 ### 📌 Project Overview
 
